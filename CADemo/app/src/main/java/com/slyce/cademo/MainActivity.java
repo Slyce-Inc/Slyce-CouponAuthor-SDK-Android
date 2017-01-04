@@ -7,7 +7,7 @@ import android.util.Log;
 import com.slyce.couponauthorsdk.Bucket;
 import com.slyce.couponauthorsdk.Coupon;
 import com.slyce.couponauthorsdk.CouponAuthorSDK;
-import com.slyce.couponauthorsdk.listeners.CouponAuthorSDKListener;
+import com.slyce.couponauthorsdk.CouponAuthorSDKListener;
 
 import java.util.List;
 
